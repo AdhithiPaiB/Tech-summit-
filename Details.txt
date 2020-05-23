@@ -1,0 +1,10 @@
+This is a Tech Summit Conference website created using Bootstrap.
+There are 4 options in the navigation bar:
+1)Home(index.html): 
+	It file provides the details about the Tech summit.
+2)Schedule(Home.html):
+	This file provides the scheduled meetings on the Tech Summit.
+3)Spotlight(spot.html):
+	This file provides the hightlights of the event.
+4)Register(register.html):
+	This file provdes the registeration form.

@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header .navbar .nb {
+    color: rgb(69, 69, 71);
+    padding: 0px 10px;
+    border-radius: 20px 20px 20px 20px;
+    font-size: 2em;
+    background-color: #EBECF0;
+   
+}
+
+header .navbar .navbar-brand .img {
+    width: 80px;
+    height: 80px;
+    
+}
+
+header .navbar {
+    background-color: #EBECF0;
+    border-radius: 0px 0px 20px 20px;
+    font-family: 'Montserrat', sans-serif;
+    box-shadow: 5px 5px 10px #BABECC, inset -8px -8px 1px #fff;
+}
+
+header .navbar .navbar-nav {
+    border-radius: 10px;
+    background-color: #EBECF0;
+    box-shadow: inset 3px 3px 3px #BABECC, inset -8px -8px 15px #fff;
+}
+
+.main {
+    padding: 20vh;
+}
+
+.card {
+    padding: 10px;
+    margin: 0 auto;
+    float: none;
+    border-radius: 20%;
+    margin-bottom: 10px;
+    border-radius: .25rem;
+    background-color: #EBECF0;
+    box-shadow: 5px 5px 10px #BABECC, inset -8px -8px 1px #fff;
+}
